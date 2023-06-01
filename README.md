@@ -11,9 +11,11 @@ The Weather App is a web application developed using React.js and the Axios libr
 **User-Friendly Interface**: The Weather App features an intuitive and user-friendly interface, making it easy for users to search for weather information and navigate through the application effortlessly.
 
 
-### Future Updates:
-
-1) In future updates, the application will not just show the weather currently; users will also be able to see the weather forecast for the upcoming days, allowing them to plan their activities accordingly. The forecast includes predicted temperatures, precipitation, and general weather conditions.
 
 
 ![image](https://user-images.githubusercontent.com/91217295/162779300-5e264776-db19-4555-a152-a856c03fedfa.png)
+
+
+### Future Updates:
+
+1) In future updates, the application will not just show the weather currently; users will also be able to see the weather forecast for the upcoming days, allowing them to plan their activities accordingly. The forecast includes predicted temperatures, precipitation, and general weather conditions.
