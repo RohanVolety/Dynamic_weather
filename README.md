@@ -4,7 +4,7 @@ The Weather App is a web application developed using React.js and the Axios libr
 
 **Location Search**: Users can search for weather information by entering a specific location, such as a city name or zip code, within the application's user interface.
 
-Axios Integration: The application utilizes the Axios library to handle HTTP requests and communicate with a weather API, fetching accurate and up-to-date weather data for the searched location
+**Axios Integration**: The application utilizes the Axios library to handle HTTP requests and communicate with a weather API, fetching accurate and up-to-date weather data for the searched location
 
 **Responsive Design**: The application is designed to be responsive, ensuring a seamless user experience across various devices, including desktops, tablets, and mobile devices.
 
